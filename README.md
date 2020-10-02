@@ -20,10 +20,12 @@ As mentioned above, install MongoDB and a GUI and then set the mongodb connectio
 
 - Install dependencies
 
-```pip install -r requirements.txt
 ```
+pip install -r requirements.txt
+```                               
 
 - Start the process
 
-```python imdb250.py
+```
+python imdb250.py
 ```
