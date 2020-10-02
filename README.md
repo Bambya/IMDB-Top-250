@@ -16,7 +16,7 @@ I later plan to look into the other lists that I have mentioned above and then c
 
 #### Let's get Started
 
-As mentioned above, install MongoDB and a GUI and then set the mongodb connection according to the uri. Download the files to your disk. Run locally from your command line.
+As mentioned above, install MongoDB and a GUI and then set the mongodb connection according to the uri. Download the files to your disk. Then run locally from your command line.
 
 - Install dependencies
 
