@@ -14,7 +14,7 @@ Other analyses we can look into are:-
 
 I later plan to look into the other lists that I have mentioned above and then compare them.
 
-#### Let's get Started
+#### Let's get started
 
 As mentioned above, install MongoDB and a GUI and then set the mongodb connection according to the uri. Download the files to your disk. Then run locally from your command line.
 
